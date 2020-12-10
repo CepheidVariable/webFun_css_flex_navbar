@@ -38,15 +38,13 @@ img{
     color: white;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     font-size: 50%;
-    /* border: 3px solid black; */
 }
 .nav-options{
     display: flex;
     list-style: none;
     width: 650px;
-    justify-content: space-between;
+    justify-content: space-around;
     font-size: 125%;
-    /* border: 2px solid red; */
 }
